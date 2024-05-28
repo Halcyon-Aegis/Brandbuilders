@@ -1,0 +1,9 @@
+<x-header>
+    @include('components.hero')
+    @include('components.cards')
+    @include('components.projects')
+    @include('components.reviews')
+    @include('components.faq')
+    @include('components.ready')
+    @include('components.footer')
+</x-header>

@@ -1,7 +1,8 @@
 <x-header>
 </x-header>
 <div class="w-full py-12 bg-[#166AEA] text-white justify-center flex text-3xl  md:text-4xl font-semibold items-center">
-    <h1 class="">Contact BrandBuilders</h1>
+    <!-- <h1 class="">Contact BrandBuilders</h1> -->
+     <img src="{{asset('img/logo_white.svg')}}" alt="Halcyon Aegis Logo">
 </div>
 <div class="md:p-10 p-5 md:flex block gap-5  md:justify-evenly mt-7 ">
 

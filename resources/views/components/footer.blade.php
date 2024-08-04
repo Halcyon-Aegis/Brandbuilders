@@ -33,7 +33,8 @@
       </div>
       <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
       <div class="sm:flex sm:items-center sm:justify-between">
-        <h1 class="text-white md:text-start text-center text-2xl font-bold">BrandBuilders</h1>
+        <!-- <h1 class="text-white md:text-start text-center text-2xl font-bold"></h1> -->
+         <img src="{{asset('img/logo_white.svg')}}" alt="">
           <span class="md:text-start text-center text-sm text-white sm:text-center dark:text-gray-400"> <a href="#" class="hover:underline">© Copyright 2024, All Rights Reserved by BrandBuilders</a>.
           </span>
           <div class="md:text-start justify-center md:justify-normal text-center flex mt-4 sm:justify-center sm:mt-0">

@@ -43,6 +43,7 @@
             </div>
         </div>
 
+        {{--
           <!-- Card 1 -->
           <div class="max-w-sm p-4 md:p-8 bg-white border border-gray-200 rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700 mb-4 mx-2 transition duration-300 transform hover:shadow-2xl hover:scale-105">
             <img class="ml-[40%]" src="img/icon holder (1).svg" alt="">
@@ -76,7 +77,7 @@
                 </a>
                 <p class="mb-3 font-normal text-gray-500 dark:text-gray-400 text-center ">Get best talents out there into your team</p>
             </div>
-        </div>
+        </div>--}}
 
     </div>
 </div>

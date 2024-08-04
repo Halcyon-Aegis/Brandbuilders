@@ -8,7 +8,7 @@
               <div class="items-center justify-center text-center md:text-start">
                   <h2 class="mb-6 md:text-start text-center text-lg font-bold text-white uppercase dark:text-white"> Lets Get in Touch </h2>
                   <p class="md:text-start text-center">
-                    We help businesses achieve their goals by building highly converting websites, improving online presence and creating effective online marketing strategies.
+                  At Halcyon Aegis, we forge the perfect union between seamless user experiences and uncompromising engineering excellence. Our name embodies our mission: 'Halcyon' represents the tranquil, user-friendly interfaces we create, while 'Aegis' symbolizes the robust, impenetrable code that forms our digital fortresses.
                   </p>
                   <button type="submit" class="inline-flex bg-transparent md:bg-[#166AEA] items-center  justify-center px- py-2 mt-2 text-base md:text-lg font-medium text-center text-white border  rounded-lg  focus:ring-4  dark:text-white dark:border-gray-700  dark:focus:ring-gray-800 w-[30%] md:w-[30%]">LETS TALK</button>
 
@@ -25,9 +25,9 @@
               </div>
               <div>
                   <h2 class="md:text-start text-center mb-6 text-sm font-semibold text-white uppercase dark:text-white">CONTACT US</h2>
-                  <p class="md:text-start text-center">Tel: +234703 2766 527
+                  <p class="md:text-start text-center">Tel: 0806413376
                 </p class="md:text-start text-center">
-                <p class="md:text-start text-center">Email: hello@Brandbuilders.com</p>
+                <p class="md:text-start text-center">Email: hello@halyconagiesinc.xyz</p>
               </div>
           </div>
       </div>
@@ -35,7 +35,7 @@
       <div class="sm:flex sm:items-center sm:justify-between">
         <!-- <h1 class="text-white md:text-start text-center text-2xl font-bold"></h1> -->
          <img src="{{asset('img/logo_white.svg')}}" alt="">
-          <span class="md:text-start text-center text-sm text-white sm:text-center dark:text-gray-400"> <a href="#" class="hover:underline">© Copyright 2024, All Rights Reserved by BrandBuilders</a>.
+          <span class="md:text-start text-center text-sm text-white sm:text-center dark:text-gray-400"> <a href="#" class="hover:underline">© Copyright 2024, All Rights Reserved by Halcyon Aegis Internet</a>.
           </span>
           <div class="md:text-start justify-center md:justify-normal text-center flex mt-4 sm:justify-center sm:mt-0">
               <a href="#" class="text-white hover:text-gray-900 dark:hover:text-white">

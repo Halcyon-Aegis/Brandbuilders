@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\System\HomeController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -25,3 +26,6 @@ Route::get('/blog', function () {
 Route::get('/contact', function () {
     return view('pages.contact');
 });
+
+
+Route::get('system/home',[HomeController::class, 'index'])->name('admin.home');

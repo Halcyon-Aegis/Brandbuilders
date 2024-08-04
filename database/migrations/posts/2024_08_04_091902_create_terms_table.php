@@ -13,6 +13,10 @@ return new class extends Migration
     {
         Schema::create('terms', function (Blueprint $table) {
             $table->id();
+            $table->uuid();
+            $table->string('name');
+            $table->string('slug')->unique();
+            // $table->timestamps();
             $table->timestamps();
         });
     }

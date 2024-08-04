@@ -13,6 +13,13 @@ return new class extends Migration
     {
         Schema::create('postmeta', function (Blueprint $table) {
             $table->id();
+            $table->uuid();
+            $table->unsignedBigInteger('post_id');
+            $table->string('meta_key');
+            $table->text('meta_value')->nullable();
+            $table->softDeletes();
+
+            $table->foreign('post_id')->references('id')->on('posts')->onDelete('cascade');
             $table->timestamps();
         });
     }

@@ -1,6 +1,6 @@
 <x-header>
 </x-header>
-<div class="w-full py-12 bg-[#00aa00cb] text-white justify-center flex text-3xl  md:text-4xl font-semibold items-center">
+<div class="w-full py-12 bg-[#166AEA] text-white justify-center flex text-3xl  md:text-4xl font-semibold items-center">
     <h1 class="">Contact BrandBuilders</h1>
 </div>
 <div class="md:p-10 p-5 md:flex block gap-5  md:justify-evenly mt-7 ">
@@ -148,7 +148,7 @@
     </div>
 
 
-    <button type="submit" class="inline-flex bg-[#00aa00cb] items-center justify-center px-4 py-3 text-base md:text-lg font-medium text-center text-white border border-gray-300 rounded-lg  focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700  dark:focus:ring-gray-800 w-full md:w-[50%]">Send message</button>
+    <button type="submit" class="inline-flex bg-[#166AEA] items-center justify-center px-4 py-3 text-base md:text-lg font-medium text-center text-white border border-gray-300 rounded-lg  focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700  dark:focus:ring-gray-800 w-full md:w-[50%]">Send message</button>
   </form>
 
     </div>

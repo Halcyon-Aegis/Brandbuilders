@@ -10,6 +10,11 @@ module.exports = {
         // Optionally extend Tailwind CSS with custom styles
         extend: {
             // Add your customizations here
+            colors:{
+              'primary-blue':'#166AEA',
+              'other-blue':'#4286EE'
+                
+            },
         },
     },
     // Specify Tailwind CSS plugins

@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
       <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
 
-          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Brand<span class="text-[#00aa00cb]">Builders</span></span>
+          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Halcyon<span class="text-[#166AEA]">Aegis</span></span>
       </a>
 
       <button class="md:hidden bg-gray-100 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800" type="button" data-drawer-target="drawer-right-example" data-drawer-show="drawer-right-example" data-drawer-placement="right" aria-controls="drawer-right-example">
@@ -82,7 +82,7 @@
             </a>
          </li>
          <div class="flex l items-center justify-start space-y-4 md:flex-row md:space-x-4 md:space-y-0">
-            <a href="#" class="inline-flex bg-[#00aa00cb] items-center justify-center px-4 py-3 text-base md:text-lg font-medium text-center text-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
+            <a href="#" class="inline-flex bg-[#166AEA] items-center justify-center px-4 py-3 text-base md:text-lg font-medium text-center text-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
                 CONTACT US
             </a>
 
@@ -95,7 +95,7 @@
       <ul class="flex flex-col font-medium p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
         <li>
           <a href="/" class="block py-6 px-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 md:dark:text-blue-500 dark:bg-blue-600 md:dark:bg-transparent {{ Request::is('/') ? 'text-blue-700 underline pb-1' : 'text-gray-900' }}" aria-current="page">
-            <span class="{{ Request::is('/') ? 'text-[#00aa00cb] underline pb-2' : 'text-gray-900' }}">Home</span>
+            <span class="{{ Request::is('/') ? 'text-[#166AEA] underline pb-2' : 'text-gray-900' }}">Home</span>
         </a>
         </li>
 
@@ -131,7 +131,7 @@
           <a href="/blog" class="block py-2 px-3  rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">blog</a>
         </li>
         <li>
-            <a href="/contact" class=" md:hidden py-2 px-3  rounded hover:bg-gray-100 md:hover:bg-transparent md:border-2 border-[#00aa00cb] md:hover:text-blue-700 md:px-5 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact</a>
+            <a href="/contact" class=" md:hidden py-2 px-3  rounded hover:bg-gray-100 md:hover:bg-transparent md:border-2 border-[#166AEA] md:hover:text-blue-700 md:px-5 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact</a>
           </li>
       </ul>
     </div>
@@ -139,7 +139,7 @@
     <div>
         <ul>
             <li>
-                <a href="/contact" class="hidden md:block py-2 px-3  rounded hover:bg-gray-100 md:hover:bg-transparent md:border-2 border-[#00aa00cb] md:hover:text-blue-700 md:px-5 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact</a>
+                <a href="/contact" class="hidden md:block py-2 px-3  rounded hover:bg-gray-100 md:hover:bg-transparent md:border-2 border-[#166AEA] md:hover:text-blue-700 md:px-5 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact</a>
               </li>
         </ul>
     </div>

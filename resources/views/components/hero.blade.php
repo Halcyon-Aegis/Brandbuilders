@@ -23,10 +23,10 @@
               </h1>
                           <p class="text-center md:text-start max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">We’re a Branding & Web Design Agency that specialize in working with small businesses, delivering the highest quality websites and unique brand identities on a modest budget.</p>
             <div class="flex flex-col items-center justify-center space-y-4 md:flex-row md:space-x-4 md:space-y-0">
-                <a href="#" class="inline-flex bg-[#00aa00cb] items-center justify-center px-4 py-3 text-base md:text-lg font-medium text-center text-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
+                <a href="#" class="inline-flex bg-[#166AEA] items-center justify-center px-4 py-3 text-base md:text-lg font-medium text-center text-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
                     BUILD MY WEBSITE NOW
                 </a>
-                <a href="#" class="inline-flex bg-[#00aa00cb] items-center justify-center px-4 py-3 text-base md:text-lg font-medium text-center text-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
+                <a href="#" class="inline-flex bg-[#166AEA] items-center justify-center px-4 py-3 text-base md:text-lg font-medium text-center text-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
                     See Projects
                 </a>
             </div>

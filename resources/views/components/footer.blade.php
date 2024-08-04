@@ -10,7 +10,7 @@
                   <p class="md:text-start text-center">
                     We help businesses achieve their goals by building highly converting websites, improving online presence and creating effective online marketing strategies.
                   </p>
-                  <button type="submit" class="inline-flex bg-transparent md:bg-[#00aa00cb] items-center  justify-center px- py-2 mt-2 text-base md:text-lg font-medium text-center text-white border  rounded-lg  focus:ring-4  dark:text-white dark:border-gray-700  dark:focus:ring-gray-800 w-[30%] md:w-[30%]">LETS TALK</button>
+                  <button type="submit" class="inline-flex bg-transparent md:bg-[#166AEA] items-center  justify-center px- py-2 mt-2 text-base md:text-lg font-medium text-center text-white border  rounded-lg  focus:ring-4  dark:text-white dark:border-gray-700  dark:focus:ring-gray-800 w-[30%] md:w-[30%]">LETS TALK</button>
 
               </div>
               <div>

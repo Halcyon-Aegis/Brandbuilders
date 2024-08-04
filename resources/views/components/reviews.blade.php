@@ -20,12 +20,7 @@
   }
 
   /* Commented out section (optional) */
-  {{-- .swiper-wrapper{
-    padding: 20%;
-  } --}}
-    {{--  .swiper-wrapper{
-        padding: 20%;
-      }  --}}
+
 </style>
 <div class="bg-gray-50 p-5">
 <div class="items-center justify-center text-center space-y-3 mt-4">

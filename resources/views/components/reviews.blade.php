@@ -38,7 +38,7 @@
     <div class="swiper-wrapper md:p-12 w-50%">
         <div class="swiper-slide gap-8 mb-5 md:mb-0">
 
-<a class="block max-w-sm p-6 bg-white border  border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+<a class="block max-w-sm p-6 bg-white border  border-gray-200 rounded-lg shadow hover:bg-gray-100">
 <div class="flex justify-between ">
     <div class="flex">
 <div class="bg-[#34bb34] h-10 w-10 text-white rounded-3xl m-1   items-center text-center justify-center kings">
@@ -47,7 +47,7 @@
 </div>
 <div>
 
-    <h5 class=" text-2xl h- font-bold tracking-tight text-gray-900 dark:text-white">
+    <h5 class=" text-2xl h- font-bold tracking-tight text-gray-900">
          Ike John</h5>
         <p class="text-sm text-gray-300 font-normal">March 22, 2020</p>
     </div>
@@ -76,14 +76,14 @@
         </svg>
 
 </h2>
-    <p class="font-normal text-gray-700 dark:text-gray-400 mt-3">Lorem ipsum dolor sit amet, consectetur
+    <p class="font-normal text-gray-700 mt-3">Lorem ipsum dolor sit amet, consectetur
         adipiscing elit. Purus consequat, pellentesque ut nisl fermentum risus scelerisque risus montes. </p>
     </a>
 
         </div>
         <div class="swiper-slide">
 
-            <a class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+            <a class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
                 <div class="flex justify-between">
                     <div class="flex">
                 <div class="bg-[#34bb34] h-10 w-10 text-white rounded-3xl m-1   items-center text-center justify-center kings">
@@ -92,7 +92,7 @@
                 </div>
                 <div>
 
-                    <h5 class=" text-2xl h- font-bold tracking-tight text-gray-900 dark:text-white">
+                    <h5 class=" text-2xl h- font-bold tracking-tight text-gray-900">
                         Mercy Zoe</h5>
                         <p class="text-sm text-gray-300 font-normal">March 22, 2020</p>
                     </div>
@@ -121,7 +121,7 @@
                         </svg>
 
                 </h2>
-                    <p class="font-normal text-gray-700 dark:text-gray-400 mt-3">Lorem ipsum dolor sit amet, consectetur
+                    <p class="font-normal text-gray-700 mt-3">Lorem ipsum dolor sit amet, consectetur
                         adipiscing elit. Purus consequat, pellentesque ut nisl fermentum risus scelerisque risus montes. </p>
                     </a>
 
@@ -129,7 +129,7 @@
 
                     <div class="swiper-slide">
 
-                        <a class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+                        <a class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
                             <div class="flex justify-between">
                                 <div class="flex">
                             <div class="bg-[#34bb34] h-10 w-10 text-white rounded-3xl m-1   items-center text-center justify-center kings">
@@ -138,7 +138,7 @@
                             </div>
                             <div>
 
-                                <h5 class=" text-2xl h- font-bold tracking-tight text-gray-900 dark:text-white">
+                                <h5 class=" text-2xl h- font-bold tracking-tight text-gray-900">
                                     Paul Benard</h5>
                                     <p class="text-sm text-gray-300 font-normal">March 22, 2020</p>
                                 </div>
@@ -167,7 +167,7 @@
                                     </svg>
 
                             </h2>
-                                <p class="font-normal text-gray-700 dark:text-gray-400 mt-3">Lorem ipsum dolor sit amet, consectetur
+                                <p class="font-normal text-gray-700 mt-3">Lorem ipsum dolor sit amet, consectetur
                                     adipiscing elit. Purus consequat, pellentesque ut nisl fermentum risus scelerisque risus montes. </p>
                                 </a>
 
@@ -176,7 +176,7 @@
 
                                 <div class="swiper-slide">
 
-                                    <a class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+                                    <a class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
                                         <div class="flex justify-between">
                                             <div class="flex">
                                         <div class="bg-[#34bb34] h-10 w-10 text-white rounded-3xl m-1   items-center text-center justify-center kings">
@@ -185,7 +185,7 @@
                                         </div>
                                         <div>
 
-                                            <h5 class=" text-2xl h- font-bold tracking-tight text-gray-900 dark:text-white">
+                                            <h5 class=" text-2xl h- font-bold tracking-tight text-gray-900">
                                                 Ruth Falana</h5>
                                                 <p class="text-sm text-gray-300 font-normal">March 22, 2020</p>
                                             </div>
@@ -214,7 +214,7 @@
                                                 </svg>
 
                                         </h2>
-                                            <p class="mt-3 font-normal text-gray-700 dark:text-gray-400">Lorem ipsum dolor sit amet, consectetur
+                                            <p class="mt-3 font-normal text-gray-700">Lorem ipsum dolor sit amet, consectetur
                                                 adipiscing elit. Purus consequat, pellentesque ut nisl fermentum risus scelerisque risus montes. </p>
                                             </a>
 

@@ -1,25 +1,21 @@
-module.exports = {
-    // Specify the paths to the files where Tailwind CSS classes are used
+import defaultTheme from 'tailwindcss/defaultTheme';
+import forms from '@tailwindcss/forms';
+
+/** @type {import('tailwindcss').Config} */
+export default {
     content: [
-        "./resources/**/*.blade.php",
-        "./resources/**/*.js",
-        "./resources/**/*.vue",
-        "./node_modules/@themesberg/flowbite/**/*.js"
+        './vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php',
+        './storage/framework/views/*.php',
+        './resources/views/**/*.blade.php',
     ],
+
     theme: {
-        // Optionally extend Tailwind CSS with custom styles
         extend: {
-            // Add your customizations here
-            colors:{
-              'primary-blue':'#166AEA',
-              'other-blue':'#4286EE'
-                
+            fontFamily: {
+                sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
         },
     },
-    // Specify Tailwind CSS plugins
-    plugins: [
-        // Include the Flowbite plugin
-        require('@themesberg/flowbite/plugin')
-    ],
-}
+
+    plugins: [forms],
+};

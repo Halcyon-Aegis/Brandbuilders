@@ -54,7 +54,7 @@
 
     </div>
     <div class="flex flex-col mt-6 m-10 items-center justify-center space-y-4 md:flex-row md:space-x-4 md:space-y-0">
-        <a href="#" class="inline-flex bg-[#166AEA] items-center justify-center px-4 py-3 text-base md:text-lg font-medium text-center text-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
+        <a href="#" class="inline-flex bg-[#166AEA] items-center justify-center px-4 py-3 text-base md:text-lg font-medium text-center text-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100">
             BUILD MY WEBSITE NOW
         </a>
 

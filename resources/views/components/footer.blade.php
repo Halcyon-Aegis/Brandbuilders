@@ -1,74 +1,111 @@
-
-
-<footer class="mt-5 bg-[#2B2D42] md:p-10 ">
-    <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
-        <div class="md:flex md:justify-between text-white">
-
-          <div class="grid md:grid-cols-3 grid-cols-1 gap-8 sm:gap-6 sm:grid-cols-3">
-              <div class="items-center justify-center text-center md:text-start">
-                  <h2 class="mb-6 md:text-start text-center text-lg font-bold text-white uppercase"> Lets Get in Touch </h2>
-                  <p class="md:text-start text-center">
-                  At Halcyon Aegis, we forge the perfect union between seamless user experiences and uncompromising engineering excellence. Our name embodies our mission: 'Halcyon' represents the tranquil, user-friendly interfaces we create, while 'Aegis' symbolizes the robust, impenetrable code that forms our digital fortresses.
-                  </p>
-                  <button type="submit" class="inline-flex bg-transparent md:bg-[#166AEA] items-center  justify-center px- py-2 mt-2 text-base md:text-lg font-medium text-center text-white border  rounded-lg  focus:ring-4   w-[30%] md:w-[30%]">LETS TALK</button>
-
-              </div>
-              <div>
-                  <h2 class="mb-6 md:text-start text-center text-sm font-semibold text-white uppercase">OUR SERVICES</h2>
-                  <p class="md:text-start text-center">Website Design & Development
+<footer class="bg-[#2A2744] text-white pt-16 pb-8 px-4 sm:px-6 lg:px-8 relative">
+    <div class="mx-auto max-w-7xl">
+        <div class="grid gap-12 mb-12 md:grid-cols-3">
+            <!-- Left Column -->
+            <div>
+                <h2 class="mb-4 text-2xl font-bold">Let's Get in Touch</h2>
+                <p class="mb-6 text-gray-300">
+                    We help businesses achieve their goals by building highly converting websites, improving online presence and creating effective online marketing strategies.
                 </p>
-                <p class="md:text-start text-center">Search Engine Optimisation/Local SEO
-                </p>
-                <p class="md:text-start text-center">Website Management & Support
-                </p class="md:text-start text-center">
-                <p class="md:text-start text-center">Online Ads</p>
-              </div>
-              <div>
-                  <h2 class="md:text-start text-center mb-6 text-sm font-semibold text-white uppercase">CONTACT US</h2>
-                  <p class="md:text-start text-center">Tel: 0806413376
-                </p class="md:text-start text-center">
-                <p class="md:text-start text-center">Email: hello@halyconagiesinc.xyz</p>
-              </div>
-          </div>
-      </div>
-      <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
-      <div class="sm:flex sm:items-center sm:justify-between">
-        <!-- <h1 class="text-white md:text-start text-center text-2xl font-bold"></h1> -->
-         <img src="{{asset('img/logo_white.svg')}}" alt="">
-          <span class="md:text-start text-center text-sm text-white sm:text-center"> <a href="#" class="hover:underline">© Copyright 2024, All Rights Reserved by Halcyon Aegis Internet</a>.
-          </span>
-          <div class="md:text-start justify-center md:justify-normal text-center flex mt-4 sm:justify-center sm:mt-0">
-              <a href="#" class="text-white hover:text-gray-900">
-                  <svg class="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 8 19">
-                        <path fill-rule="evenodd" d="M6.135 3H8V0H6.135a4.147 4.147 0 0 0-4.142 4.142V6H0v3h2v9.938h3V9h2.021l.592-3H5V3.591A.6.6 0 0 1 5.592 3h.543Z" clip-rule="evenodd"/>
-                    </svg>
-                  <span class="sr-only">Facebook page</span>
-              </a>
-              <a href="#" class="text-white hover:text-gray-900 ms-5">
-                  <svg class="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 21 16">
-                        <path d="M16.942 1.556a16.3 16.3 0 0 0-4.126-1.3 12.04 12.04 0 0 0-.529 1.1 15.175 15.175 0 0 0-4.573 0 11.585 11.585 0 0 0-.535-1.1 16.274 16.274 0 0 0-4.129 1.3A17.392 17.392 0 0 0 .182 13.218a15.785 15.785 0 0 0 4.963 2.521c.41-.564.773-1.16 1.084-1.785a10.63 10.63 0 0 1-1.706-.83c.143-.106.283-.217.418-.33a11.664 11.664 0 0 0 10.118 0c.137.113.277.224.418.33-.544.328-1.116.606-1.71.832a12.52 12.52 0 0 0 1.084 1.785 16.46 16.46 0 0 0 5.064-2.595 17.286 17.286 0 0 0-2.973-11.59ZM6.678 10.813a1.941 1.941 0 0 1-1.8-2.045 1.93 1.93 0 0 1 1.8-2.047 1.919 1.919 0 0 1 1.8 2.047 1.93 1.93 0 0 1-1.8 2.045Zm6.644 0a1.94 1.94 0 0 1-1.8-2.045 1.93 1.93 0 0 1 1.8-2.047 1.918 1.918 0 0 1 1.8 2.047 1.93 1.93 0 0 1-1.8 2.045Z"/>
-                    </svg>
-                  <span class="sr-only">Discord community</span>
-              </a>
-              <a href="#" class="text-white hover:text-gray-900 ms-5">
-                  <svg class="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 17">
-                    <path fill-rule="evenodd" d="M20 1.892a8.178 8.178 0 0 1-2.355.635 4.074 4.074 0 0 0 1.8-2.235 8.344 8.344 0 0 1-2.605.98A4.13 4.13 0 0 0 13.85 0a4.068 4.068 0 0 0-4.1 4.038 4 4 0 0 0 .105.919A11.705 11.705 0 0 1 1.4.734a4.006 4.006 0 0 0 1.268 5.392 4.165 4.165 0 0 1-1.859-.5v.05A4.057 4.057 0 0 0 4.1 9.635a4.19 4.19 0 0 1-1.856.07 4.108 4.108 0 0 0 3.831 2.807A8.36 8.36 0 0 1 0 14.184 11.732 11.732 0 0 0 6.291 16 11.502 11.502 0 0 0 17.964 4.5c0-.177 0-.35-.012-.523A8.143 8.143 0 0 0 20 1.892Z" clip-rule="evenodd"/>
-                </svg>
-                  <span class="sr-only">Twitter page</span>
-              </a>
-              <a href="#" class="text-white hover:text-gray-900 ms-5">
-                  <svg class="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
-                        <path fill-rule="evenodd" d="M10 .333A9.911 9.911 0 0 0 6.866 19.65c.5.092.678-.215.678-.477 0-.237-.01-1.017-.014-1.845-2.757.6-3.338-1.169-3.338-1.169a2.627 2.627 0 0 0-1.1-1.451c-.9-.615.07-.6.07-.6a2.084 2.084 0 0 1 1.518 1.021 2.11 2.11 0 0 0 2.884.823c.044-.503.268-.973.63-1.325-2.2-.25-4.516-1.1-4.516-4.9A3.832 3.832 0 0 1 4.7 7.068a3.56 3.56 0 0 1 .095-2.623s.832-.266 2.726 1.016a9.409 9.409 0 0 1 4.962 0c1.89-1.282 2.717-1.016 2.717-1.016.366.83.402 1.768.1 2.623a3.827 3.827 0 0 1 1.02 2.659c0 3.807-2.319 4.644-4.525 4.889a2.366 2.366 0 0 1 .673 1.834c0 1.326-.012 2.394-.012 2.72 0 .263.18.572.681.475A9.911 9.911 0 0 0 10 .333Z" clip-rule="evenodd"/>
-                  </svg>
-                  <span class="sr-only">GitHub account</span>
-              </a>
-              <a href="#" class="text-white hover:text-gray-900 ms-5">
-                  <svg class="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
-                    <path fill-rule="evenodd" d="M10 0a10 10 0 1 0 10 10A10.009 10.009 0 0 0 10 0Zm6.613 4.614a8.523 8.523 0 0 1 1.93 5.32 20.094 20.094 0 0 0-5.949-.274c-.059-.149-.122-.292-.184-.441a23.879 23.879 0 0 0-.566-1.239 11.41 11.41 0 0 0 4.769-3.366ZM8 1.707a8.821 8.821 0 0 1 2-.238 8.5 8.5 0 0 1 5.664 2.152 9.608 9.608 0 0 1-4.476 3.087A45.758 45.758 0 0 0 8 1.707ZM1.642 8.262a8.57 8.57 0 0 1 4.73-5.981A53.998 53.998 0 0 1 9.54 7.222a32.078 32.078 0 0 1-7.9 1.04h.002Zm2.01 7.46a8.51 8.51 0 0 1-2.2-5.707v-.262a31.64 31.64 0 0 0 8.777-1.219c.243.477.477.964.692 1.449-.114.032-.227.067-.336.1a13.569 13.569 0 0 0-6.942 5.636l.009.003ZM10 18.556a8.508 8.508 0 0 1-5.243-1.8 11.717 11.717 0 0 1 6.7-5.332.509.509 0 0 1 .055-.02 35.65 35.65 0 0 1 1.819 6.476 8.476 8.476 0 0 1-3.331.676Zm4.772-1.462A37.232 37.232 0 0 0 13.113 11a12.513 12.513 0 0 1 5.321.364 8.56 8.56 0 0 1-3.66 5.73h-.002Z" clip-rule="evenodd"/>
-                </svg>
-                  <span class="sr-only">Dribbble account</span>
-              </a>
-          </div>
-      </div>
+                <a href="#" class="inline-block px-6 py-2 text-white transition duration-300 bg-green-500 rounded-md hover:bg-green-600">
+                    LET'S TALK
+                </a>
+            </div>
+
+            <!-- Middle Column -->
+            <div>
+                <h3 class="mb-4 text-lg font-semibold">OUR SERVICES</h3>
+                <ul class="space-y-3 text-gray-300">
+                    <li>
+                        <a href="#" class="transition duration-300 hover:text-white">
+                            Website Design & Development
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="transition duration-300 hover:text-white">
+                            Search Engine Optimisation/Local SEO
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="transition duration-300 hover:text-white">
+                            Website Management & Support
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="transition duration-300 hover:text-white">
+                            Online Ads
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Right Column -->
+            <div>
+                <h3 class="mb-4 text-lg font-semibold">CONTACT US</h3>
+                <ul class="space-y-3 text-gray-300">
+                    <li class="flex items-center">
+                        <span>Tel: </span>
+                        <a href="tel:+234703 2764 527" class="ml-1 transition duration-300 hover:text-white">
+                            +234703 2764 527
+                        </a>
+                    </li>
+                    <li class="flex items-center">
+                        <span>Email: </span>
+                        <a href="mailto:hello@brandbuilders.com" class="ml-1 transition duration-300 hover:text-white">
+                            hello@brandbuilders.com
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Bottom Section -->
+        <div class="pt-8 border-t border-gray-700">
+            <div class="flex flex-col items-center justify-between md:flex-row">
+                <!-- Logo -->
+                <div class="mb-4 md:mb-0">
+                    <a href="/" class="text-xl font-bold">
+                        BrandBuilders
+                    </a>
+                </div>
+
+                <!-- Copyright -->
+                <div class="mb-4 text-sm text-gray-400 md:mb-0">
+                    © Copyright 2022. All Rights Reserved by BrandBuilders
+                </div>
+
+                <!-- Social Links -->
+                <div class="flex space-x-4">
+                    <a href="#" class="flex items-center justify-center w-8 h-8 transition duration-300 bg-gray-700 rounded-full hover:bg-gray-600">
+                        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+                        </svg>
+                    </a>
+                    <a href="#" class="flex items-center justify-center w-8 h-8 transition duration-300 bg-gray-700 rounded-full hover:bg-gray-600">
+                        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/>
+                        </svg>
+                    </a>
+                    <a href="#" class="flex items-center justify-center w-8 h-8 transition duration-300 bg-gray-700 rounded-full hover:bg-gray-600">
+                        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405 0-6.162 2.76-6.162 6.162 0 3.405 2.76 6.162 6.162 6.162 3.405 0 6.162-2.76 6.162-6.162 0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795 0-1.44-.646-1.44-1.44 0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z"/>
+                        </svg>
+                    </a>
+                    <a href="#" class="flex items-center justify-center w-8 h-8 transition duration-300 bg-gray-700 rounded-full hover:bg-gray-600">
+                        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
+
+    <!-- WhatsApp Floating Button -->
+    <a href="https://wa.me/your-number"
+       class="fixed z-50 flex items-center justify-center text-white transition duration-300 bg-green-500 rounded-full shadow-lg bottom-6 right-6 hover:bg-green-600 w-14 h-14">
+        <svg class="w-8 h-8" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+        </svg>
+    </a>
 </footer>

@@ -2,11 +2,9 @@
     <div class="mx-auto max-w-7xl">
         <div class="flex flex-col items-center gap-8 md:flex-row">
             <!-- Image -->
-            <div class="w-full md:w-1/3">
+            <div class="w-full mb-12 md:w-1/3 sm:mb-0">
                 <img src="{{asset('img/cta-lady-on-call.svg')}}" alt="Customer Support"
-                     class="w-full h-auto rounded-lg">
-
-
+                    class="w-full h-auto rounded-lg">
             </div>
 
             <!-- Content -->
@@ -15,7 +13,8 @@
                     Ready to get your website <span class="text-orange-500">working</span> for you?
                 </h2>
                 <p class="mb-6 text-xl text-gray-600">
-                    We would like to connect and discuss with you, how best we can support the online success and growth of your business.
+                    We would like to connect and discuss with you, how best we can support the online success and growth
+                    of your business.
                 </p>
                 <p class="mb-6 text-xl text-gray-600">
                     Kindly click on the whatsapp icon to chat with us on whatsapp or

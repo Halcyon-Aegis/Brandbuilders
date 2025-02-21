@@ -3,7 +3,7 @@
         <div class="flex flex-col items-center justify-center text-center sm:text-left sm:justify-between sm:px-6 sm:flex-row">
             <!-- Left Content -->
             <div class="space-y-6 w-2/2 sm:w-1/2">
-                <p class="text-sm tracking-wider text-gray-500 uppercase">WELCOME TO BRANDBUILDERS</p>
+                <p class="tracking-wider text-gray-500 uppercase text-md">WELCOME TO BRANDBUILDERS</p>
                 <h1 class="font-bold text-gray-900 text-8xl sm:text-5xl">
                     Hey, We are<br>
                     <span class="sm:text-7xl">D</span><span class="font-thin text-8xl animate-blink">|</span>

@@ -1,10 +1,10 @@
 <footer class="bg-[#2B2D42] text-white pt-16 pb-8 px-4 sm:px-6 lg:px-8 relative">
-    <div class="mx-auto max-w-7xl">
+    <div class="container mx-auto">
         <div class="grid gap-12 mb-12 md:grid-cols-3">
             <!-- Left Column -->
             <div>
                 <h2 class="mb-4 text-2xl font-semibold sm:text-4xl">Let's Get in Touch</h2>
-                <p class="mb-6 text-gray-300">
+                <p class="mb-6 text-xl text-gray-300">
                     We help businesses achieve their goals by building highly converting websites, improving online presence and creating effective online marketing strategies.
                 </p>
                 <a href="#" class="inline-block px-6 py-2 text-white transition duration-300 bg-[#00AA00] rounded-md hover:bg-green-600">
@@ -17,22 +17,22 @@
                 <h3 class="mb-4 text-2xl font-semibold">OUR SERVICES</h3>
                 <ul class="space-y-3 text-gray-300">
                     <li>
-                        <a href="#" class="transition duration-300 hover:text-white">
+                        <a href="#" class="text-xl transition duration-300 hover:text-white">
                             Website Design & Development
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="transition duration-300 hover:text-white">
+                        <a href="#" class="text-xl transition duration-300 hover:text-white">
                             Search Engine Optimisation/Local SEO
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="transition duration-300 hover:text-white">
+                        <a href="#" class="text-xl transition duration-300 hover:text-white">
                             Website Management & Support
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="transition duration-300 hover:text-white">
+                        <a href="#" class="text-xl transition duration-300 hover:text-white">
                             Online Ads
                         </a>
                     </li>
@@ -44,14 +44,14 @@
                 <h3 class="mb-4 text-2xl font-semibold">CONTACT US</h3>
                 <ul class="space-y-3 text-gray-300">
                     <li class="flex items-center">
-                        <span>Tel: </span>
-                        <a href="Tel: +234703 2766 527" class="ml-1 transition duration-300 hover:text-white">
+                        <span class="text-xl">Tel: </span>
+                        <a href="Tel: +234703 2766 527" class="ml-1 text-xl transition duration-300 hover:text-white">
                             +234703 2766 527
                         </a>
                     </li>
                     <li class="flex items-center">
-                        <span>Email: </span>
-                        <a href="mailto:hello@brandbuilders.com" class="ml-1 transition duration-300 hover:text-white">
+                        <span class="text-xl">Email: </span>
+                        <a href="mailto:hello@brandbuilders.com" class="ml-1 text-xl transition duration-300 hover:text-white">
                             hello@brandbuilders.com
                         </a>
                     </li>
@@ -70,22 +70,22 @@
                 </div>
 
                 <!-- Copyright -->
-                <div class="mb-4 text-sm text-gray-400 md:mb-0">
+                <div class="mb-4 text-xl text-gray-400 md:mb-0">
                     © Copyright 2022. All Rights Reserved by BrandBuilders
                 </div>
 
                 <!-- Social Links -->
                 <div class="flex space-x-4">
-                    <a href="#" class="flex items-center justify-center w-8 h-8 transition duration-300 bg-gray-700 rounded-full hover:bg-gray-600">
+                    <a href="#" class="flex items-center justify-center w-12 h-12 transition duration-300 bg-gray-700 rounded-full hover:bg-gray-600">
                         <img src="{{asset('img/circle-twitter.svg')}}" alt="Brand builders twitter page" class="">
                     </a>
-                    <a href="#" class="flex items-center justify-center w-8 h-8 transition duration-300 bg-gray-700 rounded-full hover:bg-gray-600">
+                    <a href="#" class="flex items-center justify-center w-12 h-12 transition duration-300 bg-gray-700 rounded-full hover:bg-gray-600">
                         <img src="{{asset('img/circle-facebook.svg')}}" alt="Brand builders facebook page" class="">
                     </a>
-                    <a href="#" class="flex items-center justify-center w-8 h-8 transition duration-300 bg-gray-700 rounded-full hover:bg-gray-600">
+                    <a href="#" class="flex items-center justify-center w-12 h-12 transition duration-300 bg-gray-700 rounded-full hover:bg-gray-600">
                         <img src="{{asset('img/circle-instagram.svg')}}" alt="Brand builders instagram page" class="">
                     </a>
-                    <a href="#" class="flex items-center justify-center w-8 h-8 transition duration-300 bg-gray-700 rounded-full hover:bg-gray-600">
+                    <a href="#" class="flex items-center justify-center w-12 h-12 transition duration-300 bg-gray-700 rounded-full hover:bg-gray-600">
                         <img src="{{asset('img/circle-github.svg')}}" alt="Brand builders github page" class="">
                     </a>
                 </div>

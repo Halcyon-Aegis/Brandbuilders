@@ -1,4 +1,4 @@
-<section class="px-4 py-16 sm:px-6 lg:px-8" x-data="{
+<section class="px-4 py-16 mb-12 sm:px-6 lg:px-8 sm:mb-36" x-data="{
     currentPage: 0,
     reviews: [
         {
@@ -39,7 +39,7 @@
     <div class="container mx-auto">
         <!-- Section Header -->
         <div class="mb-12 text-center">
-            <p class="mb-4 text-sm tracking-wider text-gray-500 uppercase">CUSTOMER REVIEWS</p>
+            <p class="mb-4 text-2xl tracking-wider text-gray-500 uppercase">CUSTOMER REVIEWS</p>
             <h2 class="text-3xl sm:text-5xl font-bold text-[#2B2D42] mb-4">
                 Honest Reviews from Real People
             </h2>

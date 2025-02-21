@@ -1,6 +1,6 @@
 <section class="px-4 py-16 bg-white sm:px-6 lg:px-8">
     <div class="container mx-auto">
-        <p class="mb-4 text-lg tracking-wider text-center text-gray-500 uppercase">OUR CORE SERVICES</p>
+        <p class="mb-4 text-2xl tracking-wider text-center text-gray-500 uppercase">OUR CORE SERVICES</p>
         <div class="mb-16 text-center">
             <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">
                 Does Your Website Bring You <span class="text-orange-500">Results</span> and<br>

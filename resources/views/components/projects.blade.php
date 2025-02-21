@@ -1,8 +1,8 @@
-<section class="px-4 py-16 sm:px-6 lg:px-8">
+<section class="px-4 py-24 sm:py-36 sm:px-6 lg:px-8">
     <div class="mx-auto">
         <!-- Section Header -->
-        <div class="mb-12 text-center">
-            <p class="mb-4 text-xl tracking-wider text-gray-500 uppercase">OUR PROJECTS</p>
+        <div class="mb-12 text-center sm:mb-24">
+            <p class="mb-4 text-2xl tracking-wider text-gray-500 uppercase">OUR PROJECTS</p>
             <h2 class="max-w-4xl mx-auto text-3xl font-semibold leading-10 text-gray-900 sm:text-5xl">
                 Companies hire us because we build websites that build
                 <span class="text-orange-500">trust</span> and help achieve business goals.

@@ -1,4 +1,4 @@
-<section class="pt-24 pb-16 sm:px-6 lg:px-8">
+<section class="pt-24 pb-16 sm:px-6 lg:px-8" id="hero">
     <div class="container px-6 py-12 mx-auto sm:px-0">
         <div class="flex flex-col items-center justify-center text-center sm:text-left sm:justify-between sm:px-6 sm:flex-row">
             <!-- Left Content -->

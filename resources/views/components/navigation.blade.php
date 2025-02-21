@@ -1,4 +1,4 @@
-<nav class="fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-100 shadow-sm" x-data="{ isOpen: false }">
+<nav class="fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-100 shadow-sm" x-data="{ isOpen: false }" id="nav">
     <div class="container px-4 py-4 mx-auto sm:px-6 lg:px-8">
         <div class="flex items-center justify-between h-16 text-lg font-bold">
             <!-- Logo -->
@@ -11,7 +11,7 @@
             </div>
 
             <!-- Desktop Navigation -->
-            <div class="items-center hidden space-x-8 md:flex">
+            <div class="items-center hidden space-x-8 lg:flex">
                 <a href="/" class="px-1 py-2 text-[#00AA00] border-b-2 border-[#00AA00]">Home</a>
                 <a href="/about" class="px-1 py-2 text-gray-400 hover:text-[#00AA00]">About</a>
                 <div class="relative" x-data="{ open: false }">
@@ -37,7 +37,7 @@
             </div>
 
             <!-- Mobile menu button -->
-            <div class="md:hidden">
+            <div class="lg:hidden">
                 <button @click="isOpen = !isOpen" class="text-gray-400 hover:text-[#00AA00]">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path :class="{'hidden': isOpen, 'inline-flex': !isOpen }" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
@@ -49,7 +49,7 @@
     </div>
 
     <!-- Mobile Navigation -->
-    <div :class="{'block': isOpen, 'hidden': !isOpen}" class="md:hidden">
+    <div :class="{'block': isOpen, 'hidden': !isOpen}" class="lg:hidden">
         <div class="fixed inset-0 z-40 bg-gray-800 bg-opacity-50" @click="isOpen = false"></div>
         <div class="fixed inset-y-0 right-0 w-[70%] bg-[#2B2D42] text-lg z-50 transform transition-transform duration-300 ease-in-out"
              :class="{'translate-x-0': isOpen, '-translate-x-full': !isOpen}">

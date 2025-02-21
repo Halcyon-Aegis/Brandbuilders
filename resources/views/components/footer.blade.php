@@ -97,11 +97,11 @@
     <div class="absolute z-50 bottom-20 lg:bottom-6 right-6">
         <a href="#hero"
             class="flex items-center justify-center text-white transition duration-300 rounded-full ">
-            <img src="{{asset('img/circle-up-arrow-green.svg')}}" alt="Brand builders whatsapp account" class="object-cover w-12">
+            <img src="{{asset('img/circle-up-arrow-green.svg')}}" alt="Brand builders whatsapp account" class="object-cover w-8 sm:w-12">
         </a>
         <a href="https://wa.me/+2347032766527"
-            class="flex items-center justify-center text-white transition duration-300 rounded-full ">
-            <img src="{{asset('img/circle-whatsapp.svg')}}" alt="Brand builders whatsapp account" class="object-cover w-full h-full">
+            class="flex items-center justify-center text-white transition duration-300 rounded-full hover:shadow-lg shadow-white">
+            <img src="{{asset('img/circle-whatsapp.svg')}}" alt="Brand builders whatsapp account" class="object-cover w-16 sm:w-24 ">
         </a>
     </div>
 </footer>

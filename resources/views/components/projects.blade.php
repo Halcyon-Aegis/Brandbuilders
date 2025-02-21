@@ -1,4 +1,4 @@
-<section class="px-4 py-24 sm:py-36 sm:px-6 lg:px-8">
+<section class="px-4 py-24 sm:py-36 sm:px-6 lg:px-8" id="portfolio">
     <div class="mx-auto">
         <!-- Section Header -->
         <div class="mb-12 text-center sm:mb-24">

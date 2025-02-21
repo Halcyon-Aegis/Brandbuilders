@@ -13,7 +13,7 @@
             <!-- Desktop Navigation -->
             <div class="items-center hidden space-x-8 lg:flex">
                 <a href="/" class="px-1 py-2 text-[#00AA00] border-b-2 border-[#00AA00]">Home</a>
-                <a href="/about" class="px-1 py-2 text-gray-400 hover:text-[#00AA00]">About</a>
+                <a href="#services" class="px-1 py-2 text-gray-400 hover:text-[#00AA00]">About</a>
                 <div class="relative" x-data="{ open: false }">
                     <button @click="open = !open" class="flex items-center px-1 py-2 text-gray-400 hover:text-[#00AA00]">
                         Services
@@ -29,7 +29,7 @@
                         </div>
                     </div>
                 </div>
-                <a href="/portfolio" class="px-1 py-2 text-gray-400 hover:text-[#00AA00]">Portfolio</a>
+                <a href="#portfolio" class="px-1 py-2 text-gray-400 hover:text-[#00AA00]">Portfolio</a>
                 <a href="/blog" class="px-1 py-2 text-gray-400 hover:text-[#00AA00]">Blog</a>
                 <a href="/contact" class="inline-flex items-center px-4 py-2 ml-8 text-sm font-medium text-[#00AA00] bprder border-[#00AA00] hover:text-white hover:bg-[#00AA00] border border-transparent rounded-md">
                     CONTACT US

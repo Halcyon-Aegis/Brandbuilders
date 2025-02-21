@@ -1,4 +1,4 @@
-<section class="px-4 py-16 bg-white sm:px-6 lg:px-8">
+<section class="px-4 py-16 bg-white sm:px-6 lg:px-8" id="services">
     <div class="container mx-auto">
         <p class="mb-4 text-2xl tracking-wider text-center text-gray-500 uppercase">OUR CORE SERVICES</p>
         <div class="mb-16 text-center">

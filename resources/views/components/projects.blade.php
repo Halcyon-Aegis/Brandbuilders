@@ -10,7 +10,7 @@
         </div>
 
         <!-- Projects Grid -->
-        <div class="container grid mx-auto mb-24 gap-x-10 gap-y-20 md:grid-cols-2">
+        <div class="container grid mx-auto mb-12 sm:mb-24 gap-x-10 gap-y-20 md:grid-cols-2">
             <!-- Project Card 1 -->
             <div class="group">
                 <div class="relative overflow-hidden rounded-lg">

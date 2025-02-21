@@ -40,7 +40,7 @@
         <!-- Section Header -->
         <div class="mb-12 text-center">
             <p class="mb-4 text-sm tracking-wider text-gray-500 uppercase">CUSTOMER REVIEWS</p>
-            <h2 class="text-3xl sm:text-4xl font-bold text-[#2A2744] mb-4">
+            <h2 class="text-3xl sm:text-4xl font-bold text-[#2B2D42] mb-4">
                 Honest Reviews from Real People
             </h2>
             <p class="text-sm text-orange-500">
@@ -55,7 +55,7 @@
                     <div class="w-full p-6 bg-white rounded-lg shadow-sm">
                         <div class="flex items-center justify-between mb-4">
                             <div class="flex items-center">
-                                <div class="flex items-center justify-center w-10 h-10 font-medium text-white bg-green-500 rounded-full" x-text="review.initial">
+                                <div class="flex items-center justify-center w-10 h-10 font-medium text-white bg-[#00AA00] rounded-full" x-text="review.initial">
                                 </div>
                                 <div class="ml-3">
                                     <h3 class="font-medium text-gray-900" x-text="review.name"></h3>
@@ -81,7 +81,7 @@
             <div class="flex justify-center space-x-2">
                 <template x-for="i in 3" :key="i">
                     <button @click="currentPage = i - 1"
-                            :class="{'bg-green-500': currentPage === i - 1, 'bg-gray-300': currentPage !== i - 1}"
+                            :class="{'bg-[#00AA00]': currentPage === i - 1, 'bg-gray-300': currentPage !== i - 1}"
                             class="w-2 h-2 transition-colors duration-300 rounded-full">
                     </button>
                 </template>

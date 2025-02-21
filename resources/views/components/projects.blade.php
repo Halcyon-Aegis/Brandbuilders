@@ -3,7 +3,7 @@
         <!-- Section Header -->
         <div class="mb-12 text-center">
             <p class="mb-4 text-xl tracking-wider text-gray-500 uppercase">OUR PROJECTS</p>
-            <h2 class="max-w-4xl mx-auto text-3xl font-semibold text-gray-900 sm:text-5xl">
+            <h2 class="max-w-4xl mx-auto text-3xl font-semibold leading-10 text-gray-900 sm:text-5xl">
                 Companies hire us because we build websites that build
                 <span class="text-orange-500">trust</span> and help achieve business goals.
             </h2>

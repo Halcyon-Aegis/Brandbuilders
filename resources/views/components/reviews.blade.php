@@ -36,14 +36,14 @@
         this.currentPage = (this.currentPage + 1) % 3;
     }
 }">
-    <div class="mx-auto max-w-7xl">
+    <div class="container mx-auto">
         <!-- Section Header -->
         <div class="mb-12 text-center">
             <p class="mb-4 text-sm tracking-wider text-gray-500 uppercase">CUSTOMER REVIEWS</p>
-            <h2 class="text-3xl sm:text-4xl font-bold text-[#2B2D42] mb-4">
+            <h2 class="text-3xl sm:text-5xl font-bold text-[#2B2D42] mb-4">
                 Honest Reviews from Real People
             </h2>
-            <p class="text-sm text-orange-500">
+            <p class="text-xl text-orange-500">
                 *Reviews are moderated and verified by Google MyBusiness
             </p>
         </div>
@@ -53,7 +53,7 @@
             <div class="flex flex-wrap mb-8 -mx-2">
                 <template x-for="(review, index) in reviews.slice(0, 4)" :key="index">
                     <div class="w-full p-2 md:w-1/2 lg:w-1/4">
-                        <div class="p-6 bg-white rounded-lg shadow-sm">
+                        <div class="p-6 text-xl bg-white rounded-lg shadow-sm">
                             <div class="flex items-center justify-between mb-4">
                                 <div class="flex items-center">
                                     <div class="flex items-center justify-center w-10 h-10 font-medium text-white bg-[#00AA00] rounded-full" x-text="review.initial">
@@ -73,7 +73,7 @@
                                     </svg>
                                 </template>
                             </div>
-                            <p class="text-gray-600" x-text="review.text"></p>
+                            <p class="leading-8 text-gray-600" x-text="review.text"></p>
                         </div>
                     </div>
                 </template>
